@@ -1,16 +1,42 @@
-# flutter_dcdg
+# Flutter dcdg
 
-A new Flutter project.
 
-## Getting Started
+This is how to generate flutter app class diagram using [dcdf](https://pub.dev/packages/dcdg) (Dart Class Diagram Generator) package.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/77343380/155461423-b6769c57-41d5-488f-983f-085a57201606.svg" alt="Splash Screen">   
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+# Hi, I'm 3kdeveloper! 👋
+
+
+## Features
+
+- Flutter/Dart Class Diagram Generator
+- Flutter/Dart Use Case Diagram
+- Cross platform
+
+
+## 🛠 Skills
+Flutter, Dart, AdobeXd...
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at https://github.com/3kdeveloper
+
+
+## Authors
+
+- [@3kdeveloper](https://github.com/3kdeveloper)
+
+
+## 🚀 About Me
+I'm a full stack flutter developer.
